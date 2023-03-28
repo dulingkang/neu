@@ -1,0 +1,4 @@
+
+class ShareManager():
+  dic = {}
+  modules = []
